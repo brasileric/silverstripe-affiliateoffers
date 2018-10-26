@@ -1,0 +1,24 @@
+{
+  "name": "hestec/silverstripe-affiliateoffers",
+  "description": "Affiliate offers for SilverStripe",
+  "type": "hestec-vendormodule",
+  "license": "BSD-3-Clause",
+  "keywords": ["silverstripe", "affiliate"],
+  "authors": [
+    {
+      "name": "Eric Hes",
+      "homepage": "http://www.hestec.nl",
+      "role": "Developer"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/brasileric/silverstripe-affiliateoffers/issues"
+  },
+  "require": {
+    "silverstripe/framework": ">=4.0",
+    "silverstripe/cms": ">=4.0"
+  },
+  "extra": {
+    "installer-name": "silverstripe-affiliateoffers"
+  }
+}
